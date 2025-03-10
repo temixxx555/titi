@@ -7,12 +7,12 @@ import photo4 from '../assets/fam.jpg';
 import photo5 from '../assets/n.jpg';
 import photo6 from '../assets/convocation.jpg';
 import photo7 from '../assets/twins.jpg';
-import photo8 from '../assets/peg.jpg';
+import photo8 from '../assets/pic.jpg';
 const Gallery = () => {
   const photos = [
     { id: 1, src: photo6, caption: "Convocation" },
     { id: 2, src: photo2, caption: "Engagement" },
-    { id: 3, src: photo8, caption: "tiera on the way" },
+    { id: 3, src: photo8, caption: "Outdoors" },
     { id: 4, src: photo3, caption: "Beach getaway" },
     { id: 5, src: photo4, caption: "Family" },
     { id: 6, src: photo1, caption: "Mummy jay leading the family dance group" },

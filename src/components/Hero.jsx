@@ -22,7 +22,7 @@ const Hero = ({ triggerConfetti }) => {
             Happy Birthday 🎉!
           </h1>
           <h2 className='text-2xl sm:text-3xl md:text-4xl font-bold mt-2 text-white drop-shadow-lg animate-pulse'>
-            Mummy Jay 💖
+           Big SIs 💖
           </h2>
         </div>
 
